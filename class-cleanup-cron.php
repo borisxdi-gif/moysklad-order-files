@@ -1,0 +1,1 @@
+// Content for class-cleanup-cron.php

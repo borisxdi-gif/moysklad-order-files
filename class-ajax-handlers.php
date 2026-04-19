@@ -1,0 +1,1 @@
+// Content for class-ajax-handlers.php

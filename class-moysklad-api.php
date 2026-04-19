@@ -1,0 +1,1 @@
+// Content for class-moysklad-api.php
